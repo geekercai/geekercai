@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @geekercai
-- 👀 I’m interested in Web Development & HPC
-- 🌱 I’m currently learning nothing... 233
-- 📫 Reach me by runpeicai@outlook.com
+<h1 align="center">Hi 👋, I'm reecho-tsai</h1>
+<h3 align="center">A PhD Student in Shanghai Jiao Tong University.</h3>
 
-<!--- 
-- 💞️ I’m looking to collaborate on ... (not set yet, 233)
---->
+- 🥹 Proudly former student in Software Engineering Department, Yanshan University and the 6th President of the [YUNA](https://github.com/yuna2017).
 
-<!---
-geekercai/geekercai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Computer Architecture**
+
+- 📫 reach me by **runpeicai@outlook.com**
